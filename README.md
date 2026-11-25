@@ -50,9 +50,22 @@ I enjoy solving technical problems, developing practical applications, and conti
 
 ## Projects
 
-I use GitHub to maintain my development work, practice programming concepts, and showcase practical projects in software development and data analytics.
+### EstateFlow – Property Management System
 
-More project details and source code will be added as I continue developing and documenting my work.
+A web-based property management application developed using Python, Flask, and MySQL.
+
+**Key Features:**
+- User registration and authentication
+- Property listing and management
+- Multiple property photo uploads
+- Customer and enquiry management
+- Site visit scheduling
+- Dashboard and activity tracking
+- REST API integration
+
+**Technologies:** Python, Flask, MySQL, HTML, CSS, JavaScript, JSON, REST APIs
+
+**Repository:** https://github.com/mohmmednabeel/estateflow-property-management
 
 ## Professional Interests
 
